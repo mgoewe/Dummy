@@ -1,4 +1,4 @@
-TinkerPlane
+Dummy
 ===========
 
-Tinkerforge to X-Plane
+Tinkerforge Dummy
